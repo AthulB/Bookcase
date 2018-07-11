@@ -1,0 +1,32 @@
+Facebook
+App ID
+237086950214374
+App Secret
+8aa799fa45fab2ed082ef646649e58b6
+
+https://bookcase-208711.firebaseapp.com/__/auth/handler
+
+
+<script src="https://www.gstatic.com/firebasejs/5.2.0/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyBmN9IdIPkDDfc8aPY3GHiomjS3O-vmVuc",
+    authDomain: "bookcase-208711.firebaseapp.com",
+    databaseURL: "https://bookcase-208711.firebaseio.com",
+    projectId: "bookcase-208711",
+    storageBucket: "bookcase-208711.appspot.com",
+    messagingSenderId: "285456443517"
+  };
+  firebase.initializeApp(config);
+</script>
+
+
+
+
+
+Google
+Client ID	
+1006767659232-a0ih32j7iag6oqr4ed768dtcfhkumrns.apps.googleusercontent.com
+Client secret	
+IrdKFbeAuzvEySl5TjztzX7J
